@@ -2,7 +2,9 @@ package lab3;
 /* Name: zhushuorong 
 	Lab Section: L2 
 	Lecture Section:03
+
 	Date:08/09/2018109
+	Date:08/09/20181
 	Assignment:Lab3
 	Description:Part_1
 	*/
